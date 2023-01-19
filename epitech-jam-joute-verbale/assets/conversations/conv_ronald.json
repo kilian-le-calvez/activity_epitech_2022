@@ -1,0 +1,53 @@
+{
+    "Enemy": {
+        "Name": "Ronaldo burgerito",
+        "Description": "J'ai super faim",
+        "LooseShout": "Tu votes à droite toi non ?",
+        "MiddleShout": "Et sinon les bébés pandas blablabla...",
+        "WinShout": "Ha oui, c'est chouette !"
+    },
+    "Turns": [
+        {
+            "Punch": "Jsuis Spider Man Let's Goooooo",
+            "Responses": [
+                {
+                    "Sentence": "Envoie burger",
+                    "Value": -42
+                },
+                {
+                    "Sentence": "Maxi best of big mac frite coca!",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "Un repas équilibré s'il te plait ?",
+                    "Value": -1
+                },
+                {
+                    "Sentence": "J'préfère Quick déso",
+                    "Value": 0
+                }
+            ]
+        },
+        {
+            "Punch": "Billionaire compagny by the way!",
+            "Responses": [
+                {
+                    "Sentence": "Ah mais t'es pas le clown dans ça ?",
+                    "Value": -1
+                },
+                {
+                    "Sentence": "OUAH mais j'ai affaire à une star!",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "PTDR T KI",
+                    "Value": -42
+                },
+                {
+                    "Sentence": "On peut parler de l'o by mcdo ?",
+                    "Value": -42
+                }
+            ]
+        }
+    ]
+}

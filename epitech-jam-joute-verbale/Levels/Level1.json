@@ -1,0 +1,66 @@
+{
+    "player": [
+        {
+            "Turn": {
+                "Choice 1": "oug",
+                "Choice 2": "oug oug",
+                "Choice 3": "oug oug oug"
+            }
+        },
+        {
+            "Turn": {
+                "Choice 1": "ouf",
+                "Choice 2": "ouf ouf",
+                "Choice 3": "ouf ouf ouf"
+            }
+        },
+        {
+            "Turn": {
+                "Choice 1": "oup",
+                "Choice 2": "oup oup",
+                "Choice 3": "oup oup oup"
+            }
+        },
+        {
+            "Turn": {
+                "Choice 1": "ak",
+                "Choice 2": "ak ak",
+                "Choice 3": "ak ak ak"
+            }
+        },
+        {
+            "Turn": {
+                "Choice 1": "ba",
+                "Choice 2": "ba ba",
+                "Choice 3": "ba ba ba"
+            }
+        }
+    ],
+    "enemy": [
+        {
+            "Turn": {
+                "Answer": "chien"
+            }
+        },
+        {
+            "Turn": {
+                "Answer": "clope"
+            }
+        },
+        {
+            "Turn": {
+                "Answer": "wouf"
+            }
+        },
+        {
+            "Turn": {
+                "Answer": "crack"
+            }
+        },
+        {
+            "Turn": {
+                "Answer": "pilon"
+            }
+        }
+    ]
+}

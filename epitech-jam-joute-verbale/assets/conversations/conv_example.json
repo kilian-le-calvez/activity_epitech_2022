@@ -1,0 +1,53 @@
+{
+    "Enemy": {
+        "Name": "Enemy name",
+        "Description": "Some usefull informations to fight with",
+        "LooseShout": "What he says when you are loosing",
+        "MiddleShout": "Reaction when not really good not really bad",
+        "WinShout": "What he says when you are winning"
+    },
+    "Turns": [
+        {
+            "Punch": "Blabla what can you react with this sentence?",
+            "Responses": [
+                {
+                    "Sentence": "BLABLA response that makes win a point",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "Hum... a loosing point response",
+                    "Value": -1
+                },
+                {
+                    "Sentence": "Another basic response not good not bad",
+                    "Value": 0
+                },
+                {
+                    "Sentence": "How the fuck you had the idea of this?",
+                    "Value": -42
+                }
+            ]
+        },
+        {
+            "Punch": "Blabla what can you react with this sentence?",
+            "Responses": [
+                {
+                    "Sentence": "BLABLA response that makes win a point",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "Hum... a loosing point response",
+                    "Value": -1
+                },
+                {
+                    "Sentence": "Another basic response not good not bad",
+                    "Value": 0
+                },
+                {
+                    "Sentence": "How the fuck you had the idea of this?",
+                    "Value": -42
+                }
+            ]
+        }
+    ]
+}

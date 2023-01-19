@@ -1,0 +1,53 @@
+{
+    "Enemy": {
+        "Name": "Pervers Noël",
+        "Description": "Des cadeauuuuux, enfin, peut-être pas...",
+        "LooseShout": "HO ho Hooo",
+        "MiddleShout": "HO ho Hooo",
+        "WinShout": "HO ho Hooo"
+    },
+    "Turns": [
+        {
+            "Punch": "Salut mon enfant ! Tu as été sage ?",
+            "Responses": [
+                {
+                    "Sentence": "OUG Hou ouh..",
+                    "Value": -42
+                },
+                {
+                    "Sentence": "Bonjour mère Noël !",
+                    "Value": 0
+                },
+                {
+                    "Sentence": "Le père Noël n'existe pas",
+                    "Value": -1
+                },
+                {
+                    "Sentence": "Top tip, j'adoore ton bonnet tu l'as eu où?",
+                    "Value": 1
+                }
+            ]
+        },
+        {
+            "Punch": "Fais gaffe je sais ou t'habites!",
+            "Responses": [
+                {
+                    "Sentence": "j'allume la cheminé le 24",
+                    "Value": -1
+                },
+                {
+                    "Sentence": "Tu t'es pas fait détrôner par Amazon ?",
+                    "Value": -42
+                },
+                {
+                    "Sentence": "Je peux avoir une ps5 stp ?",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "Tu veux un cookie ?",
+                    "Value": 1
+                }
+            ]
+        }
+    ]
+}

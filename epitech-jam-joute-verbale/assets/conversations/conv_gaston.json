@@ -1,0 +1,53 @@
+{
+    "Enemy": {
+        "Name": "La gaffe",
+        "Description": "Le plus beau, c’est Gaston.\nLe plus costaud, c’est Gaston.\nEt personne n’a un cou de taureau comme Gaston.\nUn caïd qui a du chien et des manières.\nEt du chic et de la prestance.\nDemandez à Tony, Dick ou Norbert.\nIls vous diront tout de suite...",
+        "LooseShout": "Pathétique créature...",
+        "MiddleShout": "Conclusion: Je suis beau.",
+        "WinShout": "Je dois m'incliner devant ce style légendaire."
+    },
+    "Turns": [
+        {
+            "Punch": "'Salut à toi jeune entrepreneur !'",
+            "Responses": [
+                {
+                    "Sentence": "Entretien d'embauche dans dix minutes!",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "'Huitre' !",
+                    "Value": -42
+                },
+                {
+                    "Sentence": "Je t'ai déà vu sur Fortnite toi?",
+                    "Value": -1
+                },
+                {
+                    "Sentence": "..sincèrement ce qu’ils en pensent !",
+                    "Value": 1
+                }
+            ]
+        },
+        {
+            "Punch": "Achète ma formation ou reste dans la misère.",
+            "Responses": [
+                {
+                    "Sentence": "'Ma personne est sacrée.",
+                    "Value": -42   
+                },
+                {
+                    "Sentence": "Je crois que la question est vite répondue",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "Tu es aussi apétissant qu'une salade...",
+                    "Value": -1
+                },
+                {
+                    "Sentence": "J'ai toujours préferé Shrek.",
+                    "Value": 1
+                }
+            ]
+        }
+    ]
+}

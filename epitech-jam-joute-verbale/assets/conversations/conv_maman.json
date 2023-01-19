@@ -1,0 +1,32 @@
+{
+    "Enemy": {
+        "Name": "Mauvaise mère",
+        "Description": "Il y a quelque chose de LOUCHE",
+        "LooseShout": "Han pfuu...",
+        "MiddleShout": "Han pfuu...",
+        "WinShout": "Han pfuu..."
+    },
+    "Turns": [
+        {
+            "Punch": "J'en ai marre de mon enfant, tu le veux ?",
+            "Responses": [
+                {
+                    "Sentence": "Il est trop mignon ton gosse",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "Tu me l'échange pour un mars ?",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "Ce gosse respire l'intelligence je prend.",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "...",
+                    "Value": -42
+                }
+            ]
+        }
+    ]
+}

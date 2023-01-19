@@ -1,0 +1,8 @@
+.vscode
+a.out
+*.o
+jeu
+.DS_Store
+__pycache__
+mymain.py
+venv

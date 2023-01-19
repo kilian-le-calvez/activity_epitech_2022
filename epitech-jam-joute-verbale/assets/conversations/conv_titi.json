@@ -1,0 +1,53 @@
+{
+    "Enemy": {
+        "Name": "Oiseau jaune 'alias titi'",
+        "Description": "Cui, cui, cuicui",
+        "LooseShout": "la la laaaa...",
+        "MiddleShout": "la la laaaa...",
+        "WinShout": "la la laaaa..."
+    },
+    "Turns": [
+        {
+            "Punch": "Oui ?",
+            "Responses": [
+                {
+                    "Sentence": "Ta carrière d'acteur est incroyable !",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "Moi aussi je suis né en 1942",
+                    "Value": 0
+                },
+                {
+                    "Sentence": "Avec moi tu risques de te bruler les ailes",
+                    "Value": -42
+                },
+                {
+                    "Sentence": "Je préfère Grominet",
+                    "Value": -1
+                }
+            ]
+        },
+        {
+            "Punch": "Zé cru voir un grominet",
+            "Responses": [
+                {
+                    "Sentence": "Mais t'as raison! moi aussi!",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "Oulah faut ralentir sur les graines.",
+                    "Value": 0
+                },
+                {
+                    "Sentence": "Ah au fait j'ai la grippe aviaire <3",
+                    "Value": -42
+                },
+                {
+                    "Sentence": "les coccinelles sont des coléoptères.",
+                    "Value": -1
+                }
+            ]
+        }
+    ]
+}

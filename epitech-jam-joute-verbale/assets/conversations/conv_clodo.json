@@ -1,0 +1,74 @@
+{
+    "Enemy": {
+        "Name": "Guitariste écolo",
+        "Description": "Un individu non indentifié s'approche.\nTu ne l'avais pas vu mais malgré ton odorat très en retard par rapport aux autres gorilles,\ntu l'avais bien senti.\nLe man parait ivre, porte des fringues trop petites et une chaussure trouée.\nC'est à coup sur un intermitent du spectacle.\nEn général les artistes fument des roulées car c'est beaucoup moins cher mais celui-ci\npossède un paquet.",
+        "LooseShout": "Tu votes à droite toi non ?",
+        "MiddleShout": "Et sinon les bébés pandas blablabla...",
+        "WinShout": "Ha oui, c'est chouette !"
+    },
+    "Turns": [
+        {
+            "Punch": "Salut mon frère, t'as pas une roulée pour moi steups?",
+            "Responses": [
+                {
+                    "Sentence": "Ok tiens.",
+                    "Value": -42
+                },
+                {
+                    "Sentence": "Je suis désolé j'en ai plus",
+                    "Value": 0
+                },
+                {
+                    "Sentence": "J'ai pas le temps",
+                    "Value": -1
+                },
+                {
+                    "Sentence": "Top tip, j'adoore ton bonnet tu l'as eu où?",
+                    "Value": 1
+                }
+            ]
+        },
+        {
+            "Punch": "Les nouveaux vêtements ça fait mourrir la planète et c'est pas cool.",
+            "Responses": [
+                {
+                    "Sentence": "Valérie Pécresse va faire la différence.",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "J'adooore faire les magasins..!",
+                    "Value": -1
+                },
+                {
+                    "Sentence": "J'ai pas d'argent pour en acheter..",
+                    "Value": 0
+                },
+                {
+                    "Sentence": "Cancun dans le Morbillan !",
+                    "Value": -42
+                }
+            ]
+        },
+        {
+            "Punch": "J'adore aller dans les petites friperies parisiennes!",
+            "Responses": [
+                {
+                    "Sentence": "J'ai oublié mon tote bag, t'as une cigarette?",
+                    "Value": 1
+                },
+                {
+                    "Sentence": "Une quoi ..?",
+                    "Value": -1
+                },
+                {
+                    "Sentence": "Ya pas Luis Vuiton dans les friperies si ?",
+                    "Value": -42
+                },
+                {
+                    "Sentence": "Je ne trouve pas ça intéressant",
+                    "Value": 0
+                }
+            ]
+        }
+    ]
+}
